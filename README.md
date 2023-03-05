@@ -1,24 +1,7 @@
-# README
+## Phynia is a Battle Game prototype. 
+Designed for a strategic combat allowing several different approaches to be used, and enemies will perform using premeditated AI.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Below a list of GIFs showing some features in action:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![](./public/images/Record_1.gif)
+![](./public/images/Record_2.gif)
