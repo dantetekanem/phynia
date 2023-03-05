@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  max_hp: 1
+  hp: 1
+  max_mp: 1
+  mp: 1
+  gauge: 1
+  status: MyString
+
+two:
+  name: MyString
+  max_hp: 1
+  hp: 1
+  max_mp: 1
+  mp: 1
+  gauge: 1
+  status: MyString
